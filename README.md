@@ -9,3 +9,5 @@ Realizado por los integrantes del grupo #4 :
 
 Enlace a la simulación y código en Tinkercad
 https://www.tinkercad.com/things/0rQEpbQFexU-ac0-grupo-4-fase-2   
+
+Enlace del video de la presentación subido a YouTube: https://youtu.be/Ks4CRkNFyfs?si=vkiTbgkxS9oSgz4j
